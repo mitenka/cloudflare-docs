@@ -27,7 +27,7 @@ $ npx gatsby new my-gatsby-site https://github.com/alxshelepenok/gatsby-starter-
 
 {{<render file="_create-github-repository_no_init.md">}}
 
-## Deploying with Cloudflare Pages
+## Deploy with Cloudflare Pages
 
 To deploy your site to Pages:
 
